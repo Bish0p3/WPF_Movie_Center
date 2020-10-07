@@ -1,0 +1,77 @@
+C:\Users\opti_practice\source\repos\WPF_Movie_Center\WPF_Movie_Center\bin\Debug\WPF_Movie_Center.exe.config
+C:\Users\opti_practice\source\repos\WPF_Movie_Center\WPF_Movie_Center\bin\Debug\WPF_Movie_Center.exe
+C:\Users\opti_practice\source\repos\WPF_Movie_Center\WPF_Movie_Center\bin\Debug\WPF_Movie_Center.pdb
+C:\Users\opti_practice\source\repos\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\WPF_Movie_Center.csprojAssemblyReference.cache
+C:\Users\opti_practice\source\repos\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\MainWindow.g.cs
+C:\Users\opti_practice\source\repos\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\View\MoviesWindow.g.cs
+C:\Users\opti_practice\source\repos\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\App.g.cs
+C:\Users\opti_practice\source\repos\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\WPF_Movie_Center_MarkupCompile.cache
+C:\Users\opti_practice\source\repos\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\WPF_Movie_Center_MarkupCompile.lref
+C:\Users\opti_practice\source\repos\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\MainWindow.baml
+C:\Users\opti_practice\source\repos\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\View\MoviesWindow.baml
+C:\Users\opti_practice\source\repos\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\WPF_Movie_Center.g.resources
+C:\Users\opti_practice\source\repos\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\WPF_Movie_Center.Properties.Resources.resources
+C:\Users\opti_practice\source\repos\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\WPF_Movie_Center.csproj.GenerateResource.cache
+C:\Users\opti_practice\source\repos\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\WPF_Movie_Center.csproj.CoreCompileInputs.cache
+C:\Users\opti_practice\source\repos\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\WPF_Movie_Center.exe
+C:\Users\opti_practice\source\repos\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\WPF_Movie_Center.pdb
+C:\Users\opti_practice\Desktop\Borys Więsek\C#\WPF_Movie_Center\WPF_Movie_Center\bin\Debug\WPF_Movie_Center.exe.config
+C:\Users\opti_practice\Desktop\Borys Więsek\C#\WPF_Movie_Center\WPF_Movie_Center\bin\Debug\WPF_Movie_Center.exe
+C:\Users\opti_practice\Desktop\Borys Więsek\C#\WPF_Movie_Center\WPF_Movie_Center\bin\Debug\WPF_Movie_Center.pdb
+C:\Users\opti_practice\Desktop\Borys Więsek\C#\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\WPF_Movie_Center.csprojAssemblyReference.cache
+C:\Users\opti_practice\Desktop\Borys Więsek\C#\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\MainWindow.g.cs
+C:\Users\opti_practice\Desktop\Borys Więsek\C#\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\View\MoviesWindow.g.cs
+C:\Users\opti_practice\Desktop\Borys Więsek\C#\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\App.g.cs
+C:\Users\opti_practice\Desktop\Borys Więsek\C#\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\WPF_Movie_Center_MarkupCompile.cache
+C:\Users\opti_practice\Desktop\Borys Więsek\C#\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\WPF_Movie_Center_MarkupCompile.lref
+C:\Users\opti_practice\Desktop\Borys Więsek\C#\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\MainWindow.baml
+C:\Users\opti_practice\Desktop\Borys Więsek\C#\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\View\MoviesWindow.baml
+C:\Users\opti_practice\Desktop\Borys Więsek\C#\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\WPF_Movie_Center.g.resources
+C:\Users\opti_practice\Desktop\Borys Więsek\C#\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\WPF_Movie_Center.Properties.Resources.resources
+C:\Users\opti_practice\Desktop\Borys Więsek\C#\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\WPF_Movie_Center.csproj.GenerateResource.cache
+C:\Users\opti_practice\Desktop\Borys Więsek\C#\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\WPF_Movie_Center.csproj.CoreCompileInputs.cache
+C:\Users\opti_practice\Desktop\Borys Więsek\C#\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\WPF_Movie_Center.exe
+C:\Users\opti_practice\Desktop\Borys Więsek\C#\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\WPF_Movie_Center.pdb
+C:\Users\opti_practice\Desktop\Borys Więsek\C#\WPF_Movie_Center\WPF_Movie_Center\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\opti_practice\Desktop\Borys Więsek\C#\WPF_Movie_Center\WPF_Movie_Center\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\opti_practice\Desktop\Borys Więsek\C#\WPF_Movie_Center\WPF_Movie_Center\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\opti_practice\Desktop\Borys Więsek\C#\WPF_Movie_Center\WPF_Movie_Center\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\opti_practice\Desktop\Borys Więsek\C#\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\App.baml
+C:\Users\opti_practice\Desktop\Borys Więsek\C#\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\Styles\Windows.baml
+C:\Users\opti_practice\Desktop\Borys Więsek\C#\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\Styles\Texts.baml
+C:\Users\opti_practice\Desktop\Borys Więsek\C#\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\Styles\Buttons.baml
+C:\Users\opti_practice\Desktop\Borys Więsek\C#\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\Styles\Colors.baml
+C:\Users\opti_practice\Desktop\Borys Więsek\C#\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\Styles\Fonts.baml
+C:\Users\opti_practice\Desktop\Borys Więsek\C#\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\WPF_Movie_Center.csproj.Fody.CopyLocal.cache
+C:\Users\opti_practice\Desktop\Borys Więsek\C#\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\WPF_Movie_Center.csproj.CopyComplete
+C:\Users\opti_practice\Desktop\Borys Więsek\C#\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lordb\Desktop\WPF_Movie_Center\WPF_Movie_Center\bin\Debug\WPF_Movie_Center.exe.config
+C:\Users\lordb\Desktop\WPF_Movie_Center\WPF_Movie_Center\bin\Debug\WPF_Movie_Center.exe
+C:\Users\lordb\Desktop\WPF_Movie_Center\WPF_Movie_Center\bin\Debug\WPF_Movie_Center.pdb
+C:\Users\lordb\Desktop\WPF_Movie_Center\WPF_Movie_Center\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\lordb\Desktop\WPF_Movie_Center\WPF_Movie_Center\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\lordb\Desktop\WPF_Movie_Center\WPF_Movie_Center\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\lordb\Desktop\WPF_Movie_Center\WPF_Movie_Center\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\lordb\Desktop\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\WPF_Movie_Center.csprojAssemblyReference.cache
+C:\Users\lordb\Desktop\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\MainWindow.g.cs
+C:\Users\lordb\Desktop\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\View\MoviesWindow.g.cs
+C:\Users\lordb\Desktop\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\App.g.cs
+C:\Users\lordb\Desktop\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lordb\Desktop\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\WPF_Movie_Center_MarkupCompile.cache
+C:\Users\lordb\Desktop\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\WPF_Movie_Center_MarkupCompile.lref
+C:\Users\lordb\Desktop\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\App.baml
+C:\Users\lordb\Desktop\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\MainWindow.baml
+C:\Users\lordb\Desktop\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\Styles\Windows.baml
+C:\Users\lordb\Desktop\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\Styles\Texts.baml
+C:\Users\lordb\Desktop\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\Styles\Buttons.baml
+C:\Users\lordb\Desktop\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\Styles\Colors.baml
+C:\Users\lordb\Desktop\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\Styles\Fonts.baml
+C:\Users\lordb\Desktop\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\View\MoviesWindow.baml
+C:\Users\lordb\Desktop\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\WPF_Movie_Center.g.resources
+C:\Users\lordb\Desktop\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\WPF_Movie_Center.Properties.Resources.resources
+C:\Users\lordb\Desktop\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\WPF_Movie_Center.csproj.GenerateResource.cache
+C:\Users\lordb\Desktop\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\WPF_Movie_Center.csproj.CoreCompileInputs.cache
+C:\Users\lordb\Desktop\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\WPF_Movie_Center.csproj.Fody.CopyLocal.cache
+C:\Users\lordb\Desktop\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\WPF_Movie_Center.csproj.CopyComplete
+C:\Users\lordb\Desktop\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\WPF_Movie_Center.exe
+C:\Users\lordb\Desktop\WPF_Movie_Center\WPF_Movie_Center\obj\Debug\WPF_Movie_Center.pdb
